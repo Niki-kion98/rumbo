@@ -1,0 +1,161 @@
+{
+  "paraguay": {
+    "checked": "20.10.2026",
+    "sources": {
+      "apostille": [
+        "Апостиль · Минюст РФ",
+        "https://minjust.gov.ru/ru/activity/govservices/16/"
+      ],
+      "authority": [
+        "Ведомства · Минюст РФ",
+        "https://www.minjust.gov.ru/ru/appeals/faq/520/"
+      ],
+      "airline": [
+        "Питомцы · пример Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/"
+      ],
+      "breeds": [
+        "Ограничения пород · Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/all-terms-and-conditions/"
+      ],
+      "entry": [
+        "Въезд и визы · Migraciones",
+        "https://migraciones.gov.py/informacion-sobre-visas/"
+      ],
+      "agreement": [
+        "Соглашение РФ — Парагвай · Посольство",
+        "https://www.embapar.ru/docs/sup_visa_esp.pdf"
+      ],
+      "residence": [
+        "Временное проживание · Migraciones",
+        "https://migraciones.gov.py/residencia-temporal/"
+      ],
+      "permanent": [
+        "Смена категории · Migraciones",
+        "https://migraciones.gov.py/residencia-permanente-para-el-cambio-de-categoria-de-residente-temporal/"
+      ],
+      "pets": [
+        "Питомцы · SENACSA",
+        "https://senacsa.gov.py/servicios/sanidad-animal-identidad-y-trazabilidad/cuarentena/viajar-con-mascotas/"
+      ],
+      "tourism": [
+        "Асунсьон · Visit Paraguay",
+        "https://visitparaguay.travel/city/asuncion"
+      ]
+    }
+  },
+  "brazil": {
+    "checked": "20.10.2026",
+    "sources": {
+      "apostille": [
+        "Апостиль · Минюст РФ",
+        "https://minjust.gov.ru/ru/activity/govservices/16/"
+      ],
+      "authority": [
+        "Ведомства · Минюст РФ",
+        "https://www.minjust.gov.ru/ru/appeals/faq/520/"
+      ],
+      "airline": [
+        "Питомцы · пример Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/"
+      ],
+      "breeds": [
+        "Ограничения пород · Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/all-terms-and-conditions/"
+      ],
+      "entry": [
+        "Соглашение РФ — Бразилия · Senado",
+        "https://legis.senado.leg.br/norma/411905/publicacao/16429431"
+      ],
+      "residence": [
+        "Основания проживания · MJSP",
+        "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/autorizacao-de-residencia"
+      ],
+      "nomad": [
+        "Цифровой кочевник · MJSP",
+        "https://www.gov.br/mj/pt-br/assuntos/seus-direitos/migracoes/portal-de-imigracao-laboral/navegacao-guiada-1/possui-autorizacao-de-residencia/o-que-deseja/qual-a-finalidade-desejada-1/trabalho-sem-contrato-de-trabalho-no-brasil/nomade-digital/nomade-digital"
+      ],
+      "documents": [
+        "Апостиль и перевод · Polícia Federal",
+        "https://www.gov.br/pf/pt-br/assuntos/imigracao/organizar/duvidas-frequentes2/mais-informacoes/legalizacao-apostilamento-e-traducao"
+      ],
+      "register": [
+        "Миграционная регистрация · gov.br",
+        "https://www.gov.br/pt-br/servicos/registrar-se-como-estrangeiro-no-brasil"
+      ],
+      "pets": [
+        "Ввоз животных · MAPA",
+        "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/entrar-no-brasil"
+      ],
+      "petlaw": [
+        "Portaria 741/2024 · MAPA",
+        "https://www.gov.br/agricultura/pt-br/assuntos/vigilancia-agropecuaria/animais-estimacao/portaria-mapa-no-741_2024-caninos-e-felinos-domesticos-1.pdf"
+      ],
+      "tourism": [
+        "Рио · Visit Brasil",
+        "https://www.visitbrasil.com/en/location/rio-de-janeiro-en/"
+      ]
+    }
+  },
+  "argentina": {
+    "checked": "20.10.2026",
+    "sources": {
+      "apostille": [
+        "Апостиль · Минюст РФ",
+        "https://minjust.gov.ru/ru/activity/govservices/16/"
+      ],
+      "authority": [
+        "Ведомства · Минюст РФ",
+        "https://www.minjust.gov.ru/ru/appeals/faq/520/"
+      ],
+      "airline": [
+        "Питомцы · пример Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/"
+      ],
+      "breeds": [
+        "Ограничения пород · Turkish Airlines",
+        "https://www.turkishairlines.com/en-tr/any-questions/traveling-with-pets/all-terms-and-conditions/"
+      ],
+      "entry": [
+        "Соглашение РФ — Аргентина · Cancillería",
+        "https://tratados.cancilleria.gob.ar/tratado_archivo.php?caso=pdf&id=mqGkng%3D%3D&tipo=kg%3D%3D&tratados_id=kp2mmpo%3D"
+      ],
+      "residence": [
+        "Категории проживания · Migraciones",
+        "https://www.argentina.gob.ar/node/132055"
+      ],
+      "documents": [
+        "Иностранные документы · Migraciones",
+        "https://www.argentina.gob.ar/node/141785"
+      ],
+      "worker": [
+        "Рабочая резиденция · Migraciones",
+        "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-trabajador-migrante"
+      ],
+      "rentista": [
+        "Rentista · Migraciones",
+        "https://www.argentina.gob.ar/servicio/obtener-una-residencia-temporaria-como-rentista"
+      ],
+      "nomad": [
+        "Digital nomad · официальная норма",
+        "https://www.argentina.gob.ar/normativa/nacional/norma-364601/texto"
+      ],
+      "family": [
+        "Воссоединение с семьёй · Migraciones",
+        "https://www.argentina.gob.ar/node/152641"
+      ],
+      "health": [
+        "DNU 366/2025 · официальный текст",
+        "https://www.argentina.gob.ar/normativa/nacional/decreto-366-2025-413297/texto"
+      ],
+      "pets": [
+        "Ввоз собак и кошек · SENASA",
+        "https://www.argentina.gob.ar/senasa/informacion-al-viajero/ingresar-o-regresar-al-pais/ingresos-con-perros-yo-gatos"
+      ],
+      "tourism": [
+        "Природа и города · Argentina Travel",
+        "https://www.argentina.travel/sobre-argentina"
+      ]
+    }
+  }
+}
