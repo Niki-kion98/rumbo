@@ -192,3 +192,11 @@
  .district-grid{grid-template-columns:1fr}.country-follow-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.domestic-guidance{grid-template-columns:1fr}
  .about-story,.about-method{grid-template-columns:1fr}.about-hero-bottom{flex-direction:column;align-items:flex-start;gap:24px}
 }
+
+/* Mobile layout for the home actions and cards. */
+@media(max-width:760px){
+ .start-actions{display:flex;flex-direction:column;gap:10px}
+ .start-actions .button,.start-actions .outline{width:100%}
+ .life-hub-card{min-height:auto}
+ .continent-card{display:block}
+}

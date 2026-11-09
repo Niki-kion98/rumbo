@@ -1,14 +1,26 @@
 (() => {
- const C=window.RUMBO_CATALOG, host=document.querySelector('.life-hub');
- if(!C||!host)return;
- let selected='uruguay';
- try{const prev=localStorage.getItem('rumbo-last-country');if(C[prev])selected=prev}catch{}
- function apply(save=false){
-  for(const a of host.querySelectorAll('.life-hub-card'))if(a.hash)a.href=C[selected].url+a.hash;
-  if(save)try{localStorage.setItem('rumbo-last-country',selected)}catch{}
- }
- const picker=window.RumboDestinationPicker.mount({profiles:C,selected,label:'Направление для личных инструментов',onChange:id=>{selected=id;apply(true)}});
- picker.classList.add('life-hub-country');host.querySelector('.life-hub-grid').before(picker);apply();
+ const catalog = window.RUMBO_CATALOG, host = document.querySelector('.life-hub');
+ if (!catalog || !host) return;
+
+ const picker = window.RumboDestinationPicker.mount({
+  profiles: catalog,
+  selected: '',
+  label: 'Направление для личных инструментов',
+  onChange(id) {
+   for (const card of host.querySelectorAll('[data-tool-section]')) {
+    card.href = catalog[id].url + '#' + card.dataset.toolSection;
+    card.querySelector('.text-link').textContent = 'Открыть ↗';
+   }
+   try { localStorage.setItem('rumbo-last-country', id); } catch {}
+  }
+ });
+ const countrySelect = picker.querySelector('select');
+ const placeholder = new Option('Выберите страну', '', true, true);
+ placeholder.disabled = true;
+ countrySelect.prepend(placeholder);
+ countrySelect.value = '';
+ picker.classList.add('life-hub-country');
+ host.querySelector('.life-hub-grid').before(picker);
 })();
 
 (() => {
